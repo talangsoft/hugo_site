@@ -1,0 +1,4 @@
+[submodule "talangsoft.github.io"]
+	path = talangsoft.github.io
+	url = git@github.com:talangsoft/talangsoft.github.io.git
+	branch = master

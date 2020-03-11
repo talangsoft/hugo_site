@@ -1,0 +1,6 @@
+# Intellij files
+.idea
+*.iml
+
+# Generated sources
+talangsoft.github.io
